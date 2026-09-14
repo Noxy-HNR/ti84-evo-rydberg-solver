@@ -1,3 +1,5 @@
+> Legacy standalone edition. Use `../release/` for the current graphical suite, corrected configurations, and ion support. These files are retained for reference.
+
 # TI-84 Evo — Rydberg / Photon Energy Solver
 
 Solve hydrogen-transition problems with a **full worked solution printed
